@@ -1,2 +1,2 @@
 # amazon-clone
-it is a clone of amazon
+it is the clone of amazon
